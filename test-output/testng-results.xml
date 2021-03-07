@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47986" started-at="2021-03-04T23:07:46 IST" finished-at="2021-03-04T23:08:34 IST">
+  <suite name="Default suite" duration-ms="25221" started-at="2021-03-07T19:58:30 IST" finished-at="2021-03-07T19:58:56 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47986" started-at="2021-03-04T23:07:46 IST" finished-at="2021-03-04T23:08:34 IST">
-      <class name="ExpediaFlight.Flight">
-        <test-method status="PASS" signature="expedia()[pri:0, instance:ExpediaFlight.Flight@711f39f9]" name="expedia" duration-ms="27289" started-at="2021-03-04T23:07:46 IST" finished-at="2021-03-04T23:08:13 IST">
+    <test name="Default test" duration-ms="25221" started-at="2021-03-07T19:58:30 IST" finished-at="2021-03-07T19:58:56 IST">
+      <class name="ExpediaFlight.Readimage">
+        <test-method status="PASS" signature="expedia()[pri:0, instance:ExpediaFlight.Readimage@59e5ddf]" name="expedia" duration-ms="25189" started-at="2021-03-07T19:58:30 IST" finished-at="2021-03-07T19:58:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- expedia -->
-        <test-method status="PASS" signature="expedianewmethod()[pri:0, instance:ExpediaFlight.Flight@711f39f9]" name="expedianewmethod" duration-ms="20657" started-at="2021-03-04T23:08:13 IST" finished-at="2021-03-04T23:08:34 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- expedianewmethod -->
-      </class> <!-- ExpediaFlight.Flight -->
+      </class> <!-- ExpediaFlight.Readimage -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

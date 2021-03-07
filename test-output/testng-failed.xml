@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ExpediaFlight.Flight">
+      <class name="ExpediaFlight.Readimage">
         <methods>
-          <include name="expedianewmethod"/>
+          <include name="expedia"/>
         </methods>
-      </class> <!-- ExpediaFlight.Flight -->
+      </class> <!-- ExpediaFlight.Readimage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

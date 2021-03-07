@@ -1,12 +1,9 @@
 package ExpediaFlight;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-
 import javax.imageio.ImageIO;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
